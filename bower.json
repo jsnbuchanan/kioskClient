@@ -1,0 +1,22 @@
+{
+  "name": "kioskClient",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jsnbuchanan/kioskClient",
+  "authors": [
+    "Jason Buchanan <jsnbuchanan@gmail.com>"
+  ],
+  "description": "Angular client for the Kiosk platform",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angularjs": "~1.4.5",
+    "bootstrap": "~3.3.5"
+  }
+}
